@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  },
   "scripts": {
     "build:packages": "babel-node build/build.js",
     "build:strman": "babel src --out-dir lib",
