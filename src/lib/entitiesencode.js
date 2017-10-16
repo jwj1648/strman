@@ -1460,7 +1460,6 @@ export default {
   ŵ: '&wcirc;',
   '\u2A5F': '&wedbar;',
   '\u2259': '&wedgeq;',
-  ℘: '&weierp;',
   '\uD835\uDD34': '&wfr;',
   '\uD835\uDD68': '&wopf;',
   '\uD835\uDCCC': '&wscr;',
